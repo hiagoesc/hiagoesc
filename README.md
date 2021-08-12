@@ -10,7 +10,7 @@ Atualmente estudando Análise de Dados com Python 📈
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiagoesc&layout=compact"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiagoesc&count_private=true&layout=compact"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
