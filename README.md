@@ -1,8 +1,6 @@
 ## Olá, sou Hiago Cardoso 😉
 
-Sou estudante de Arquitetura e Urbanismo 📐🖊 e quase Tecnólogo em Análise e Desenvolvimento de Sistemas 💻 
-
-Atualmente estudando Análise de Dados com Python 📈
+Sou Arquiteto e Urbanista 📐🖊, Analista e Desenvolvedor de Sistemas 💻 e pós-graduando em Cidades Responsivas 🗺️ e em Gestão Pública Empreendedora 📈
 
 ##
 
