@@ -1,6 +1,6 @@
 ## Olá, sou Hiago Cardoso 😉
 
-Sou Arquiteto e Urbanista 📐🖊, Analista e Desenvolvedor de Sistemas 💻 e pós-graduando em Cidades Responsivas 🗺️ e em Gestão Pública Empreendedora 📈
+Sou Analista e Desenvolvedor de Sistemas 💻, Arquiteto e Urbanista 📐🖊, Especialista em Cidades Responsivas 🗺️ e estudando Ciência de Dados 📈
 
 ### Habilidades e Tecnologias 🎯
 - **Linguagens de Programação**: Python, SQL
@@ -17,7 +17,7 @@ Sou Arquiteto e Urbanista 📐🖊, Analista e Desenvolvedor de Sistemas 💻 e 
 Tecnologia para o desenvolvimento das cidades, governo baseado em dados, geoprocessamento corporativo, análise de dados de turismo, projetos urbanos, inteligência artificial.
 
 ### Entre em Contato
-- [LinkedIn](https://www.linkedin.com/in/hiagoesc/)
+- [LinkedIn](https://www.linkedin.com/in/hiagocardosoarq/)
 - [Instagram](https://www.instagram.com/hiagocardoso.arq/)
 - [WhatsApp](https://wa.me/5512997775253)
 
