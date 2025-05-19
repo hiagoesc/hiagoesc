@@ -11,6 +11,7 @@ Sou Analista e Desenvolvedor de Sistemas 💻, Arquiteto e Urbanista 📐🖊, E
 ### Projetos em Destaque
 - [Análise de Dados de Emprego em Turismo](https://github.com/hiagoesc/analise-de-dados-novo-caged/): Script em Python para análise de dados de empregos no setor de turismo baseado em dados do Novo CAGED.
 - [Gerador de Coordenadas](https://github.com/hiagoesc/CoordinateGenerator): Plugin em Python para QGIS que cria arquivo de coordenadas de polígonos de uma camada ativa.
+- [Aplicação para Geração de Marcas D'água](https://github.com/hiagoesc/watermark_app): Aplicação em Python com interface Tkinter simples para gerar marcas d'água de texto em arquivos PDF.
 - [Validador de Votos](https://github.com/hiagoesc/validador-de-votos): Script em Python para validar votos de concurso gastronômico realizados de forma online.
 
 ### Interesses
